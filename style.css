@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#search-term {
+	text-align: center;
+	
+}
+
+.search-box {
+	margin: 0 auto;
+	width: 500px;
+}
+.header {
+
+	height: 200px;
+	background-image: url("youtubeLogo.png");
+	background-repeat: no-repeat;
+	background-size: 200px;
+	background-position: 50px;
+	border-bottom: 1px solid #d0d0d0;
+
+}
+
+.header p {
+	font-family: raleway;
+	line-height: 350px;
+	float: right;
+	margin-right: 20px;
+}
+#query {
+	margin-top: 5%;
+	width: 350px;
+	height: 40px;
+	font-size: 1em;
+	font-family: raleway;
+	text-align: center;
+}
+
+#submitButton {
+	color: white;
+	width: 75px;
+	height: 30px;
+	font-family: raleway;
+	background-color: #fe6464;
+	border: 1px solid #f74d4d;
+}
+
+#search-results li {
+	list-style: none;
+}
+
+#search-results ul {
+	margin-top: 5%;
+}
+
+#search-results {
+	text-align: center;
+	
+}
+
+#search-results img {
+	width: 300px;
+	height: auto;
+}
+
+#search-results p {
+	font-family: raleway;
+	margin-bottom: 35px;
+}
