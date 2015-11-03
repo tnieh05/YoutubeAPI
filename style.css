@@ -13,21 +13,20 @@
 	width: 500px;
 }
 .header {
-
+	
 	height: 200px;
 	background-image: url("youtubeLogo.png");
 	background-repeat: no-repeat;
 	background-size: 200px;
-	background-position: 50px;
-	border-bottom: 1px solid #d0d0d0;
+	background-position: 540px;
+	
 
 }
 
-.header p {
+p {
+	text-align: center;
 	font-family: raleway;
-	line-height: 350px;
-	float: right;
-	margin-right: 20px;
+
 }
 #query {
 	margin-top: 5%;
